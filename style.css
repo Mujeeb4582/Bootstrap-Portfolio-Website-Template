@@ -1,0 +1,7 @@
+.bg-image {
+  position: relative;
+  background-image: url(/images/Header-llustration-desktop.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 140vh;
+}
