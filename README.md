@@ -8,7 +8,7 @@
 
 ## Built With
 
-- HTML & CSS & Bootstrape 5
+- HTML & CSS & Bootstrap 5
 
 
 ## Live Demo
@@ -43,7 +43,6 @@ Open in browser
 - LinkedIn: [mujeeb-ur-rahman-54268011a](https://linkedin.com/in/mujeeb-ur-rahman-54268011a)
 
 👤 **Author2**
-
 - GitHub: [@fmshot2](https://github.com/fmshot2)
 - Twitter: [@_fmshot](https://twitter.com/_fmshot)
 - LinkedIn: [femi-shotola](https://linkedin.com/in/femi-shotola)
