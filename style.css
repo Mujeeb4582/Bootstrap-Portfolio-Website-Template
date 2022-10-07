@@ -21,3 +21,11 @@
   flex-direction: column;
   margin-left: 40px;
 }
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
