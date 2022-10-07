@@ -1,0 +1,23 @@
+.bg-image {
+  background-image: url(/images/Header-llustration-desktop.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#intro {
+  padding: 180px 0;
+}
+
+.indicator {
+  width: 60px;
+  height: 4px;
+  background: #36b37e;
+  border-radius: 24px;
+
+}
+
+.work-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+}
