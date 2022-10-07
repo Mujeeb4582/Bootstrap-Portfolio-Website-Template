@@ -42,6 +42,12 @@ Open in browser
 - Twitter: [@Mujeebu93992980](https://twitter.com/Mujeebu93992980)
 - LinkedIn: [mujeeb-ur-rahman-54268011a](https://linkedin.com/in/mujeeb-ur-rahman-54268011a)
 
+👤 **Author2**
+
+- GitHub: [@fmshot2](https://github.com/fmshot2)
+- Twitter: [@_fmshot](https://twitter.com/_fmshot)
+- LinkedIn: [femi-shotola](https://linkedin.com/in/femi-shotola)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
